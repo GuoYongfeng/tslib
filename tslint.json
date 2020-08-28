@@ -5,7 +5,8 @@
     ],
     "jsRules": {},
     "rules": {
-        "no-eval": false
+        "no-eval": false,
+        "array-type": false
     },
     "rulesDirectory": []
 }
